@@ -4,6 +4,13 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
+
     <!-- Whether to show min/max refresh rate in display settings -->
     <bool name="config_show_refresh_rate_controls">true</bool>
+
+    <!-- PEX maintainer in About phone -->
+    <string name="pex_maintainer">Maintainer</string>
+    <string name="pex_maintainer_name" translatable="false">Kartikey</string>
+    <string name="pex_maintainer_group" translatable="false">https://t.me/kartikeysuryabuilds</string>
+
 </resources>
